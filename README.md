@@ -31,11 +31,15 @@ Analyzes text sentiment (positive, negative, neutral) using TextBlob NLP library
 
 `Python` `TextBlob` `pandas`
 
-## 🔭 Currently Working On
+## Currently Working On
 
 - Building ML projects for my portfolio
 - Learning and exploring new AI/ML technologies
 - Contributing to open source projects
+
+## Certifications
+
+![AIED Associate](./assets/aied-associate.png)
 
 ## 📫 Contact
 
