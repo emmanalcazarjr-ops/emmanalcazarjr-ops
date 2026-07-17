@@ -33,15 +33,14 @@ Analyzes text sentiment (positive, negative, neutral) using TextBlob NLP library
 
 ## 🔭 Currently Working On
 
-- [ ] [Your current project or area of focus]
-- [ ] Learning or exploring a new technology
-- [ ] Contributing to open source projects
+- Building ML projects for my portfolio
+- Learning and exploring new AI/ML technologies
+- Contributing to open source projects
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EmmanAlcazarJr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanalcazarjr/)
 
 ---
 
