@@ -15,10 +15,10 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## 📁 Featured Projects
 
-### [Project Name 1](https://github.com/emmanalcazarjr-ops/project-1)
-Brief description of what this project does and the problem it solves.
+### [Iris Flower Classifier](./iris-classifier)
+A complete ML pipeline that classifies iris flowers into three species using a Random Forest classifier.
 
-`Python` `TensorFlow` `pandas`
+`Python` `scikit-learn` `pandas` `numpy`
 
 ### [Project Name 2](https://github.com/emmanalcazarjr-ops/project-2)
 Brief description of what this project does and the problem it solves.
