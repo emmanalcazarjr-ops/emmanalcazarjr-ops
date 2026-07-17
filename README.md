@@ -12,6 +12,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-FF6F00?style=flat&logo=python&logoColor=white)
 
 ## 📁 Featured Projects
 
@@ -20,15 +21,15 @@ A complete ML pipeline that classifies iris flowers into three species using a R
 
 `Python` `scikit-learn` `pandas` `numpy`
 
-### [Project Name 2](https://github.com/emmanalcazarjr-ops/project-2)
-Brief description of what this project does and the problem it solves.
+### [Spam Email Detector](./spam-email-detector)
+Classifies emails as spam or not spam using TF-IDF vectorization and Naive Bayes classifier.
 
-`Python` `PyTorch` `scikit-learn`
+`Python` `scikit-learn` `pandas` `numpy`
 
-### [Project Name 3](https://github.com/emmanalcazarjr-ops/project-3)
-Brief description of what this project does and the problem it solves.
+### [Sentiment Analysis Tool](./sentiment-analysis-tool)
+Analyzes text sentiment (positive, negative, neutral) using TextBlob NLP library.
 
-`Python` `NumPy` `pandas`
+`Python` `TextBlob` `pandas`
 
 ## 🔭 Currently Working On
 
