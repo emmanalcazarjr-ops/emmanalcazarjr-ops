@@ -1,11 +1,17 @@
 # Hi, I'm Emmanuel Alcazar Jr. 👋
 
-**Data Science & Machine Learning Developer**
+**Software Engineer | Data Science & Machine Learning Developer**
 
-I'm passionate about building intelligent systems that solve real-world problems. My focus areas include machine learning, deep learning, and data-driven solutions.
+I'm passionate about building intelligent systems that solve real-world problems. My focus areas include software engineering, machine learning, deep learning, and data-driven solutions in banking & finance.
 
 ## 🚀 Tech Stack
 
+### Software Engineering
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+
+### Data Science & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
@@ -16,26 +22,57 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## 📁 Featured Projects
 
-### [Iris Flower Classifier](./iris-classifier)
-A complete ML pipeline that classifies iris flowers into three species using a Random Forest classifier.
+### Software Engineering
 
-`Python` `scikit-learn` `pandas` `numpy`
+#### [Core Banking System](./core-banking-system)
+A CLI-based banking application demonstrating core banking operations, transaction processing, and role-based access control.
 
-### [Spam Email Detector](./spam-email-detector)
-Classifies emails as spam or not spam using TF-IDF vectorization and Naive Bayes classifier.
+`Java` `MySQL` `Maven` `JDBC`
 
-`Python` `scikit-learn` `pandas` `numpy`
+---
 
-### [Sentiment Analysis Tool](./sentiment-analysis-tool)
+### Machine Learning & Data Science
+
+#### [Fraud Detection System](./fraud-detection-system)
+Machine learning system to detect fraudulent transactions using Random Forest and Isolation Forest algorithms.
+
+`Python` `scikit-learn` `pandas` `NumPy`
+
+#### [Credit Risk Predictor](./credit-risk-predictor)
+Deep learning model to predict loan default risk using neural networks with TensorFlow.
+
+`Python` `TensorFlow` `pandas` `NumPy`
+
+#### [Stock Price Predictor](./stock-price-predictor)
+LSTM-based neural network for stock price forecasting using PyTorch.
+
+`Python` `PyTorch` `NumPy` `pandas`
+
+#### [Customer Churn Predictor](./customer-churn-predictor)
+Predict customer churn using Gradient Boosting with SHAP explainability.
+
+`Python` `scikit-learn` `pandas` `SHAP`
+
+#### [Sentiment Analysis Tool](./sentiment-analysis-tool)
 Analyzes text sentiment (positive, negative, neutral) using TextBlob NLP library.
 
 `Python` `TextBlob` `pandas`
 
+#### [Iris Flower Classifier](./iris-classifier)
+A complete ML pipeline that classifies iris flowers into three species using a Random Forest classifier.
+
+`Python` `scikit-learn` `pandas` `NumPy`
+
+#### [Spam Email Detector](./spam-email-detector)
+Classifies emails as spam or not spam using TF-IDF vectorization and Naive Bayes classifier.
+
+`Python` `scikit-learn` `pandas` `NumPy`
+
 ## Currently Working On
 
-- Building ML projects for my portfolio
-- Learning and exploring new AI/ML technologies
-- Contributing to open source projects
+- Building enterprise software and ML projects for my portfolio
+- Exploring banking systems and fintech solutions
+- Learning advanced deep learning architectures
 
 ## Certifications
 
