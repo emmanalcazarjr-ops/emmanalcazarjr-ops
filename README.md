@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Alcazar Jr. 👋
 
-**Software Engineer | Data Science & Machine Learning Developer**
+**Licensed Electronics Engineer | Software Engineer | Data Science & ML Developer**
 
 I'm passionate about building intelligent systems that solve real-world problems. My focus areas include software engineering, machine learning, deep learning, and data-driven solutions in banking & finance.
 
@@ -68,15 +68,20 @@ Classifies emails as spam or not spam using TF-IDF vectorization and Naive Bayes
 
 `Python` `scikit-learn` `pandas` `NumPy`
 
+## 🏆 Licenses & Certifications
+
+- ⚡ **Electronics Engineer (ECE)** - Licensed Professional (PRC)
+- 🔧 **Electronics Technician (ECT)** - Licensed Professional (PRC)
+- 🛡️ **Safety Officer 2** - Occupational Safety Certified
+- 📊 **PMP Certification Prep** - 35-hour Training (May 2026)
+- 📈 **Data Analyst Associate** - DataCamp Certified
+- 🤖 **AI Engineer Associate** - DataCamp Certified
+
 ## Currently Working On
 
 - Building enterprise software and ML projects for my portfolio
 - Exploring banking systems and fintech solutions
 - Learning advanced deep learning architectures
-
-## Certifications
-
-![AIED Associate](./assets/aied-associate.png)
 
 ## 📫 Contact
 
