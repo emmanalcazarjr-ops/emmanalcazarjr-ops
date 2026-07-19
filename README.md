@@ -70,12 +70,13 @@ Classifies emails as spam or not spam using TF-IDF vectorization and Naive Bayes
 
 ## 🏆 Licenses & Certifications
 
-- ⚡ **Electronics Engineer (ECE)** - Licensed Professional (PRC)
-- 🔧 **Electronics Technician (ECT)** - Licensed Professional (PRC)
+- ⚡ **Electronics Engineer License (ECE)** - Licensed Professional (PRC)
+- 🌐 **ICT Infrastructure Certification** - Technological Learning of Internetworking End Devices
+- 🔧 **Electronics Technician License (ECT)** - Licensed Professional (PRC)
 - 🛡️ **Safety Officer 2** - Occupational Safety Certified
-- 📊 **PMP Certification Prep** - 35-hour Training (May 2026)
-- 📈 **Data Analyst Associate** - DataCamp Certified
-- 🤖 **AI Engineer Associate** - DataCamp Certified
+- 📊 **Certificate of Completion - PMP Certification Prep** - Full Course, 35-hour Training (May 2026)
+- 📈 **Data Analyst Associate Certification** - DataCamp Certified
+- 🤖 **AI Engineer for Developers Associate Certification** - DataCamp Certified
 
 ## Currently Working On
 
