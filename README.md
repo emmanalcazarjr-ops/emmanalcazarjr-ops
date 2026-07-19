@@ -85,6 +85,7 @@ Classifies emails as spam or not spam using TF-IDF vectorization and Naive Bayes
 
 ## 📫 Contact
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-elalcazarjr.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EmmanAlcazarJr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanalcazarjr/)
 
