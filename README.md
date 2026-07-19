@@ -24,7 +24,7 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ### Software Engineering
 
-#### [Core Banking System](./core-banking-system)
+#### [Core Banking System](https://github.com/emmanalcazarjr-ops/core-banking-system)
 A CLI-based banking application demonstrating core banking operations, transaction processing, and role-based access control.
 
 `Java` `MySQL` `Maven` `JDBC`
@@ -33,37 +33,37 @@ A CLI-based banking application demonstrating core banking operations, transacti
 
 ### Machine Learning & Data Science
 
-#### [Fraud Detection System](./fraud-detection-system)
+#### [Fraud Detection System](https://github.com/emmanalcazarjr-ops/fraud-detection-system)
 Machine learning system to detect fraudulent transactions using Random Forest and Isolation Forest algorithms.
 
 `Python` `scikit-learn` `pandas` `NumPy`
 
-#### [Credit Risk Predictor](./credit-risk-predictor)
+#### [Credit Risk Predictor](https://github.com/emmanalcazarjr-ops/credit-risk-predictor)
 Deep learning model to predict loan default risk using neural networks with TensorFlow.
 
 `Python` `TensorFlow` `pandas` `NumPy`
 
-#### [Stock Price Predictor](./stock-price-predictor)
+#### [Stock Price Predictor](https://github.com/emmanalcazarjr-ops/stock-price-predictor)
 LSTM-based neural network for stock price forecasting using PyTorch.
 
 `Python` `PyTorch` `NumPy` `pandas`
 
-#### [Customer Churn Predictor](./customer-churn-predictor)
+#### [Customer Churn Predictor](https://github.com/emmanalcazarjr-ops/customer-churn-predictor)
 Predict customer churn using Gradient Boosting with SHAP explainability.
 
 `Python` `scikit-learn` `pandas` `SHAP`
 
-#### [Sentiment Analysis Tool](./sentiment-analysis-tool)
+#### [Sentiment Analysis Tool](https://github.com/emmanalcazarjr-ops/sentiment-analysis-tool)
 Analyzes text sentiment (positive, negative, neutral) using TextBlob NLP library.
 
 `Python` `TextBlob` `pandas`
 
-#### [Iris Flower Classifier](./iris-classifier)
+#### [Iris Flower Classifier](https://github.com/emmanalcazarjr-ops/iris-classifier)
 A complete ML pipeline that classifies iris flowers into three species using a Random Forest classifier.
 
 `Python` `scikit-learn` `pandas` `NumPy`
 
-#### [Spam Email Detector](./spam-email-detector)
+#### [Spam Email Detector](https://github.com/emmanalcazarjr-ops/spam-email-detector)
 Classifies emails as spam or not spam using TF-IDF vectorization and Naive Bayes classifier.
 
 `Python` `scikit-learn` `pandas` `NumPy`
