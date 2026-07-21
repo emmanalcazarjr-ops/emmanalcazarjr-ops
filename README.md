@@ -8,7 +8,10 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ### Software Engineering
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
 
 ### Data Science & ML
@@ -28,6 +31,11 @@ I'm passionate about building intelligent systems that solve real-world problems
 A CLI-based banking application demonstrating core banking operations, transaction processing, and role-based access control.
 
 `Java` `MySQL` `Maven` `JDBC`
+
+#### [Task Management System](https://github.com/emmanalcazarjr-ops/task-management-system)
+Full-stack task management application with CRUD operations, filtering, and real-time status updates.
+
+`Next.js 14` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
 ---
 
