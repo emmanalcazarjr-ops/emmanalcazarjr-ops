@@ -37,6 +37,11 @@ Full-stack task management application with CRUD operations, filtering, and real
 
 `Next.js 14` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
+#### [ML API Showcase](https://github.com/emmanalcazarjr-ops/ml-api-showcase)
+Interactive showcase of Machine Learning APIs with live demos and real-time predictions.
+
+`Next.js 14` `TypeScript` `Python` `Tailwind CSS`
+
 ---
 
 ### Machine Learning & Data Science
