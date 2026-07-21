@@ -27,17 +27,17 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ### Software Engineering
 
-#### [Core Banking System](https://github.com/emmanalcazarjr-ops/core-banking-system)
+#### [Core Banking System](https://github.com/emmanalcazarjr-ops/core-banking-system) | [Live Demo](https://core-banking-showcase.vercel.app)
 A CLI-based banking application demonstrating core banking operations, transaction processing, and role-based access control.
 
 `Java` `MySQL` `Maven` `JDBC`
 
-#### [Task Management System](https://github.com/emmanalcazarjr-ops/task-management-system)
+#### [Task Management System](https://github.com/emmanalcazarjr-ops/task-management-system) | [Live Demo](https://task-management-system-umber-three.vercel.app)
 Full-stack task management application with CRUD operations, filtering, and real-time status updates.
 
 `Next.js 14` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
-#### [ML API Showcase](https://github.com/emmanalcazarjr-ops/ml-api-showcase)
+#### [ML API Showcase](https://github.com/emmanalcazarjr-ops/ml-api-showcase) | [Live Demo](https://ml-api-showcase.vercel.app)
 Interactive showcase of Machine Learning APIs with live demos and real-time predictions.
 
 `Next.js 14` `TypeScript` `Python` `Tailwind CSS`
@@ -46,30 +46,30 @@ Interactive showcase of Machine Learning APIs with live demos and real-time pred
 
 ### Machine Learning & Data Science
 
-#### [Fraud Detection System](https://github.com/emmanalcazarjr-ops/fraud-detection-system)
+#### [Fraud Detection System](https://github.com/emmanalcazarjr-ops/fraud-detection-system) | [API](https://fraud-api-ten.vercel.app)
 Machine learning system to detect fraudulent transactions using Random Forest and Isolation Forest algorithms.
 
 `Python` `scikit-learn` `pandas` `NumPy`
 
-#### [Credit Risk Predictor](https://github.com/emmanalcazarjr-ops/credit-risk-predictor)
+#### [Credit Risk Predictor](https://github.com/emmanalcazarjr-ops/credit-risk-predictor) | [API](https://credit-api-zeta.vercel.app)
 Deep learning model to predict loan default risk using neural networks with TensorFlow.
 
 `Python` `TensorFlow` `pandas` `NumPy`
 
-#### [Stock Price Predictor](https://github.com/emmanalcazarjr-ops/stock-price-predictor)
+#### [Stock Price Predictor](https://github.com/emmanalcazarjr-ops/stock-price-predictor) | [API](https://stock-api-phi-jet.vercel.app)
 LSTM-based neural network for stock price forecasting using PyTorch.
 
 `Python` `PyTorch` `NumPy` `pandas`
 
-#### [Customer Churn Predictor](https://github.com/emmanalcazarjr-ops/customer-churn-predictor)
+#### [Customer Churn Predictor](https://github.com/emmanalcazarjr-ops/customer-churn-predictor) | [API](https://churn-api-zeta.vercel.app)
 Predict customer churn using Gradient Boosting with SHAP explainability.
 
 `Python` `scikit-learn` `pandas` `SHAP`
 
-#### [Sentiment Analysis Tool](https://github.com/emmanalcazarjr-ops/sentiment-analysis-tool)
-Analyzes text sentiment (positive, negative, neutral) using TextBlob NLP library.
+#### [Sentiment Analysis Tool](https://github.com/emmanalcazarjr-ops/sentiment-api) | [API](https://sentiment-api-nine.vercel.app)
+Analyzes text sentiment (positive, negative, neutral) using keyword-based analysis.
 
-`Python` `TextBlob` `pandas`
+`Python` `NLP` `Vercel`
 
 #### [Iris Flower Classifier](https://github.com/emmanalcazarjr-ops/iris-classifier)
 A complete ML pipeline that classifies iris flowers into three species using a Random Forest classifier.
@@ -80,6 +80,20 @@ A complete ML pipeline that classifies iris flowers into three species using a R
 Classifies emails as spam or not spam using TF-IDF vectorization and Naive Bayes classifier.
 
 `Python` `scikit-learn` `pandas` `NumPy`
+
+## 🌐 Live Projects
+
+| Project | Live URL |
+|---------|----------|
+| Portfolio | [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) |
+| ML API Showcase | [ml-api-showcase.vercel.app](https://ml-api-showcase.vercel.app) |
+| Task Manager | [task-management-system-umber-three.vercel.app](https://task-management-system-umber-three.vercel.app) |
+| Core Banking | [core-banking-showcase.vercel.app](https://core-banking-showcase.vercel.app) |
+| Fraud API | [fraud-api-ten.vercel.app](https://fraud-api-ten.vercel.app) |
+| Credit API | [credit-api-zeta.vercel.app](https://credit-api-zeta.vercel.app) |
+| Stock API | [stock-api-phi-jet.vercel.app](https://stock-api-phi-jet.vercel.app) |
+| Churn API | [churn-api-zeta.vercel.app](https://churn-api-zeta.vercel.app) |
+| Sentiment API | [sentiment-api-nine.vercel.app](https://sentiment-api-nine.vercel.app) |
 
 ## 🏆 Licenses & Certifications
 
