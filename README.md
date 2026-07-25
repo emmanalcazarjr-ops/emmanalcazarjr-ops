@@ -42,6 +42,11 @@ Interactive showcase of Machine Learning APIs with live demos and real-time pred
 
 `Next.js 14` `TypeScript` `Python` `Tailwind CSS`
 
+#### [Spotify Lyrics Overlay](https://github.com/emmanalcazarjr-ops/spotify-lyrics-overlay)
+Transparent desktop overlay with synced lyrics from Spotify. Features click-through mode, playback controls, and real-time lyrics synchronization.
+
+`Electron` `TypeScript` `Spotify API` `LRCLIB`
+
 ---
 
 ### Machine Learning & Data Science
