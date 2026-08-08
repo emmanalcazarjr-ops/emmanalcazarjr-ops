@@ -24,12 +24,12 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## 📁 Featured Projects
 
-### Fraud Detection System | [Live API](https://fraud-api-ten.vercel.app)
+### Fraud Detection System
 Real-time fraud detection using scikit-learn Random Forest model with 98.6% accuracy. Features include transaction analysis, risk scoring, and detailed risk factor breakdown.
 
 `Python` `scikit-learn` `joblib` `Vercel` ![Accuracy](https://img.shields.io/badge/Accuracy-98.6%25-brightgreen)
 
-### RAG Document Q&A API | [Live API](https://rag-qa-api.vercel.app)
+### RAG Document Q&A API
 Retrieval-Augmented Generation system using TF-IDF vector search and DeepSeek AI for intelligent document retrieval and context-aware answers.
 
 `Python` `TF-IDF` `DeepSeek AI` `RAG`
@@ -39,7 +39,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 
 `Python` `DeepSeek AI` `FastAPI` `Chatbot`
 
-### Task Management System | [Live Demo](https://task-management-system-umber-three.vercel.app)
+### Task Management System
 Full-stack task management application with CRUD operations, filtering, real-time status updates, and PostgreSQL database integration.
 
 `Next.js 14` `TypeScript` `PostgreSQL` `Tailwind CSS`
@@ -51,10 +51,7 @@ Full-stack task management application with CRUD operations, filtering, real-tim
 | Project | Live URL | Technology |
 |---------|----------|------------|
 | Portfolio | [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) | Next.js, Tailwind CSS |
-| Fraud API | [fraud-api-ten.vercel.app](https://fraud-api-ten.vercel.app) | scikit-learn, Python |
-| RAG Q&A API | [rag-qa-api.vercel.app](https://rag-qa-api.vercel.app) | TF-IDF, DeepSeek AI |
 | Chatbot API | [chatbot-api-two-teal.vercel.app](https://chatbot-api-two-teal.vercel.app) | FastAPI, DeepSeek AI |
-| Task Manager | [task-management-system-umber-three.vercel.app](https://task-management-system-umber-three.vercel.app) | Next.js, PostgreSQL |
 
 ## 🏆 Licenses & Certifications
 
