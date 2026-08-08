@@ -24,25 +24,10 @@ I'm passionate about building intelligent systems that solve real-world problems
 
 ## 📁 Featured Projects
 
-### Fraud Detection System
-Real-time fraud detection using scikit-learn Random Forest model with 98.6% accuracy. Features include transaction analysis, risk scoring, and detailed risk factor breakdown.
-
-`Python` `scikit-learn` `joblib` `Vercel` ![Accuracy](https://img.shields.io/badge/Accuracy-98.6%25-brightgreen)
-
-### RAG Document Q&A API
-Retrieval-Augmented Generation system using TF-IDF vector search and DeepSeek AI for intelligent document retrieval and context-aware answers.
-
-`Python` `TF-IDF` `DeepSeek AI` `RAG`
-
 ### Rush AI Butler | [Live API](https://chatbot-api-two-teal.vercel.app)
 AI-powered customer support chatbot with conversation memory, webhook support, and rate limiting. Powered by DeepSeek AI for intelligent responses.
 
 `Python` `DeepSeek AI` `FastAPI` `Chatbot`
-
-### Task Management System
-Full-stack task management application with CRUD operations, filtering, real-time status updates, and PostgreSQL database integration.
-
-`Next.js 14` `TypeScript` `PostgreSQL` `Tailwind CSS`
 
 ---
 
