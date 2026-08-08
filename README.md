@@ -45,6 +45,8 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 - 🌐 **ICT Infrastructure Certification** - Technological Learning of Internetworking End Devices
 - 📈 **Data Analyst Associate Certification** - DataCamp Certified
 - 🤖 **AI Engineer for Developers Associate Certification** - DataCamp Certified
+- ⚙️ **Workflow Automation with n8n** - DataCamp Certified
+- 🐍 **Python** - DataCamp Certified
 
 ## 🗺️ My Roadmap
 
