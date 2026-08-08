@@ -1,8 +1,8 @@
 # Hi, I'm Emmanuel Alcazar Jr. 👋
 
-**Licensed Electronics Engineer | Software Engineer | Data Science & ML Developer**
+**Licensed Electronics Engineer | AI/ML Developer | Software Engineer**
 
-I'm passionate about building intelligent systems that solve real-world problems. My focus areas include software engineering, machine learning, deep learning, and data-driven solutions in banking & finance.
+I build AI automation and intelligent systems that help people and businesses work smarter and faster — specializing in machine learning, AI-powered applications, and software engineering.
 
 ## 🚀 Tech Stack
 
@@ -46,11 +46,36 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 - 📈 **Data Analyst Associate Certification** - DataCamp Certified
 - 🤖 **AI Engineer for Developers Associate Certification** - DataCamp Certified
 
-## Currently Working On
+## 🗺️ My Roadmap
 
-- Building enterprise software and ML projects for my portfolio
-- Exploring banking systems and fintech solutions
-- Learning advanced deep learning architectures
+> Live view: [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) → Roadmap tab
+
+**Currently Working On**
+- 🔄 Expanding the AI/ML portfolio with new projects
+- 🔄 Producing portfolio case studies and screenshots for GitHub repos
+- 🔄 Job search for AI/ML and software engineering roles
+- 📝 Improving Rush AI Butler with more automation integrations
+
+**Short-Term Goals**
+- 📝 Publish at least 3 polished case studies with business value
+- 📝 Add screenshots and demo media to all public repositories
+- 📝 Complete 1–2 new end-to-end machine learning projects
+- 📝 Redeploy a flagship ML API as a live demo
+
+**Long-Term Goals**
+- 📝 Land an AI/ML engineer role in banking or fintech
+- 📝 Build production-grade intelligent systems end-to-end
+- 📝 Specialize in deep learning for financial applications
+- 📝 Grow a public technical brand through blog, talks, and open source
+
+**Learning Goals**
+- 🔄 Deepen TensorFlow and PyTorch (advanced architectures)
+- 🔄 Advanced deep learning architectures (transformers, LLMs)
+- 📝 MLOps: model serving, CI/CD for ML, monitoring
+- ✅ n8n automation basics — workflow automation with n8n
+- ✅ DataCamp certifications — Data Analyst + AI Engineer Associate
+
+_Legend: ✅ Done · 🔄 In Progress · 📝 Planned_
 
 ## 📫 Contact
 
