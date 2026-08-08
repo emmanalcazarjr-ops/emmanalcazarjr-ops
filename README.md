@@ -53,29 +53,32 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 > Live view: [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) → Roadmap tab
 
 **Currently Working On**
-- 🔄 Expanding the AI/ML portfolio with new projects
-- 🔄 Producing portfolio case studies and screenshots for GitHub repos
-- 🔄 Job search for AI/ML and software engineering roles
-- 📝 Improving Rush AI Butler with more automation integrations
+- 🔄 Building AI automation projects that solve real business problems
+- 🔄 Connecting AI APIs (OpenAI, Claude, Gemini, DeepSeek) to automation tools like n8n, Zapier, and Make
+- 🔄 Producing case studies that show business value (hours saved, manual work reduced)
+- 🔄 Job search for AI automation and AI/ML roles
 
 **Short-Term Goals**
-- 📝 Publish at least 3 polished case studies with business value
-- 📝 Add screenshots and demo media to all public repositories
-- 📝 Complete 1–2 new end-to-end machine learning projects
-- 📝 Redeploy a flagship ML API as a live demo
+- 📝 Ship the Automated Report Generator with a live demo
+- 📝 Ship the Data Reconciliation & Exception Monitor
+- 📝 Build an Internal AI Knowledge Assistant
+- 📝 Build a KPI Dashboard (Power BI / Looker Studio) on top of the report pipeline
+- 📝 Publish case studies and screenshots for each project
 
 **Long-Term Goals**
-- 📝 Land an AI/ML engineer role in banking or fintech
-- 📝 Build production-grade intelligent systems end-to-end
-- 📝 Specialize in deep learning for financial applications
+- 📝 Land an AI automation role and progress into AI/ML engineering
+- 📝 Build production-grade AI systems end-to-end
 - 📝 Grow a public technical brand through blog, talks, and open source
 
 **Learning Goals**
-- 🔄 Deepen TensorFlow and PyTorch (advanced architectures)
-- 🔄 Advanced deep learning architectures (transformers, LLMs)
-- 📝 MLOps: model serving, CI/CD for ML, monitoring
-- ✅ n8n automation basics — workflow automation with n8n
+- ✅ n8n automation — workflow automation with n8n
 - ✅ DataCamp certifications — Data Analyst + AI Engineer Associate
+- 🔄 SQL and Python
+- 🔄 AI APIs: OpenAI, Claude, Gemini, DeepSeek
+- 🔄 Zapier, Make, GoHighLevel, Power Automate
+- 📝 Excel/Google Sheets automation
+- 📝 Power BI / Looker Studio / Tableau
+- 📝 Basic machine learning — path to AI/ML engineering
 
 _Legend: ✅ Done · 🔄 In Progress · 📝 Planned_
 
