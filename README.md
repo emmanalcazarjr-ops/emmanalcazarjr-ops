@@ -37,6 +37,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 |---------|----------|------------|
 | Portfolio | [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) | Next.js, Tailwind CSS |
 | Chatbot API | [chatbot-api-two-teal.vercel.app](https://chatbot-api-two-teal.vercel.app) | FastAPI, DeepSeek AI |
+| Automated Report Generator | [automated-report-generator.vercel.app](https://automated-report-generator.vercel.app) | FastAPI, DeepSeek AI |
 
 ## 🏆 Licenses & Certifications
 
@@ -59,7 +60,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 - 🔄 Job search for AI automation and AI/ML roles
 
 **Short-Term Goals**
-- 📝 Ship the Automated Report Generator with a live demo
+- ✅ Ship the Automated Report Generator with a live demo
 - 📝 Ship the Data Reconciliation & Exception Monitor
 - 📝 Build an Internal AI Knowledge Assistant
 - 📝 Build a KPI Dashboard (Power BI / Looker Studio) on top of the report pipeline
