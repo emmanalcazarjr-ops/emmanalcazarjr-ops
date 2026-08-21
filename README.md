@@ -38,6 +38,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 | Portfolio | [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) | Next.js, Tailwind CSS |
 | Chatbot API | [chatbot-api-two-teal.vercel.app](https://chatbot-api-two-teal.vercel.app) | FastAPI, DeepSeek AI |
 | Automated Report Generator | [automated-report-generator.vercel.app](https://automated-report-generator.vercel.app) | FastAPI, DeepSeek AI |
+| Water Station Telegram Bots | [GitHub](https://github.com/emmanalcazarjr-ops/water-station-telegram-bot) | Node.js, grammY, Supabase |
 
 ## 🏆 Licenses & Certifications
 
@@ -47,7 +48,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 - 📈 **Data Analyst Associate Certification** - DataCamp Certified
 - 🤖 **AI Engineer for Developers Associate Certification** - DataCamp Certified
 - ⚙️ **Workflow Automation with n8n** - DataCamp Certified
-- 🐍 **Python** - DataCamp Certified
+- 🐍 **Python (Intermediate)** - DataCamp Certified
 
 ## 🗺️ My Roadmap
 
@@ -74,7 +75,8 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 **Learning Goals**
 - ✅ n8n automation — workflow automation with n8n
 - ✅ DataCamp certifications — Data Analyst + AI Engineer Associate
-- 🔄 SQL and Python
+- ✅ Python — Intermediate Python (DataCamp)
+- 🔄 SQL
 - 🔄 AI APIs: OpenAI, Claude, Gemini, DeepSeek
 - 🔄 Zapier, Make, GoHighLevel, Power Automate
 - 📝 Excel/Google Sheets automation
