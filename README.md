@@ -6,25 +6,32 @@ I build AI automation and intelligent systems that help people and businesses wo
 
 ## 🚀 Tech Stack
 
-### Software Engineering
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+### AI Automation & Backend
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-### Data Science & ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+### Data & AI
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFB?style=flat&logo=deepseek&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ## 📁 Featured Projects
 
-### Rush AI Butler | [Live API](https://chatbot-api-two-teal.vercel.app)
+### Rush — Personal AI Assistant | [@RushDailyBot](https://t.me/RushDailyBot) · [Code](https://github.com/emmanalcazarjr-ops/personal-assistant-bot)
+A private AI butler in Telegram: turns saved links into organized tasks, logs meals from food photos against a daily calorie cap, sends 7 AM / 7 PM briefings, and chats with memory. Runs 24/7 on Supabase Edge Functions.
+
+`TypeScript` `grammY` `DeepSeek AI` `Supabase Edge Functions`
+
+### AI Chatbot API | [Live API](https://chatbot-api-two-teal.vercel.app)
 AI-powered customer support chatbot with conversation memory, webhook support, and rate limiting. Powered by DeepSeek AI for intelligent responses.
 
 `Python` `DeepSeek AI` `FastAPI` `Chatbot`
@@ -36,6 +43,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 | Project | Live URL | Technology |
 |---------|----------|------------|
 | Portfolio | [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) | Next.js, Tailwind CSS |
+| Rush Personal AI Assistant | [t.me/RushDailyBot](https://t.me/RushDailyBot) | TypeScript, grammY, DeepSeek, Supabase |
 | Chatbot API | [chatbot-api-two-teal.vercel.app](https://chatbot-api-two-teal.vercel.app) | FastAPI, DeepSeek AI |
 | Automated Report Generator | [automated-report-generator.vercel.app](https://automated-report-generator.vercel.app) | FastAPI, DeepSeek AI |
 | Water Station Telegram Bots | [GitHub](https://github.com/emmanalcazarjr-ops/water-station-telegram-bot) | Node.js, grammY, Supabase |
@@ -55,6 +63,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 > Live view: [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) → Roadmap tab
 
 **Currently Working On**
+- 🔄 Building @RushDailyBot — a personal AI assistant live 24/7 on Supabase Edge Functions
 - 🔄 Building AI automation projects that solve real business problems
 - 🔄 Connecting AI APIs (OpenAI, Claude, Gemini, DeepSeek) to automation tools like n8n, Zapier, and Make
 - 🔄 Producing case studies that show business value (hours saved, manual work reduced)
