@@ -17,8 +17,7 @@ I build AI automation and intelligent systems that help people and businesses wo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### Data & AI
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFB?style=flat&logo=deepseek&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -29,12 +28,12 @@ I build AI automation and intelligent systems that help people and businesses wo
 ### Rush — Personal AI Assistant | [@RushDailyBot](https://t.me/RushDailyBot) · [Code](https://github.com/emmanalcazarjr-ops/personal-assistant-bot)
 A private AI butler in Telegram: turns saved links into organized tasks, logs meals from food photos against a daily calorie cap, sends 7 AM / 7 PM briefings, and chats with memory. Runs 24/7 on Supabase Edge Functions.
 
-`TypeScript` `grammY` `DeepSeek AI` `Supabase Edge Functions`
+`TypeScript` `grammY` `Google Gemini AI` `Supabase Edge Functions`
 
 ### AI Chatbot API | [Live API](https://chatbot-api-two-teal.vercel.app)
-AI-powered customer support chatbot with conversation memory, webhook support, and rate limiting. Powered by DeepSeek AI for intelligent responses.
+AI-powered customer support chatbot with conversation memory, webhook support, and rate limiting. Powered by Google Gemini AI for intelligent responses.
 
-`Python` `DeepSeek AI` `FastAPI` `Chatbot`
+`Python` `Google Gemini AI` `FastAPI` `Chatbot`
 
 ---
 
@@ -43,9 +42,9 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 | Project | Live URL | Technology |
 |---------|----------|------------|
 | Portfolio | [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) | Next.js, Tailwind CSS |
-| Rush Personal AI Assistant | [t.me/RushDailyBot](https://t.me/RushDailyBot) | TypeScript, grammY, DeepSeek, Supabase |
-| Chatbot API | [chatbot-api-two-teal.vercel.app](https://chatbot-api-two-teal.vercel.app) | FastAPI, DeepSeek AI |
-| Automated Report Generator | [automated-report-generator.vercel.app](https://automated-report-generator.vercel.app) | FastAPI, DeepSeek AI |
+| Rush Personal AI Assistant | [t.me/RushDailyBot](https://t.me/RushDailyBot) | TypeScript, grammY, Google Gemini, Supabase |
+| Chatbot API | [chatbot-api-two-teal.vercel.app](https://chatbot-api-two-teal.vercel.app) | FastAPI, Google Gemini AI |
+| Automated Report Generator | [automated-report-generator.vercel.app](https://automated-report-generator.vercel.app) | FastAPI, Google Gemini AI |
 | Water Station Telegram Bots | [GitHub](https://github.com/emmanalcazarjr-ops/water-station-telegram-bot) | Node.js, grammY, Supabase |
 
 ## 🏆 Licenses & Certifications
@@ -65,7 +64,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 **Currently Working On**
 - 🔄 Building @RushDailyBot — a personal AI assistant live 24/7 on Supabase Edge Functions
 - 🔄 Building AI automation projects that solve real business problems
-- 🔄 Connecting AI APIs (OpenAI, Claude, Gemini, DeepSeek) to automation tools like n8n, Zapier, and Make
+- 🔄 Connecting AI APIs (Google Gemini, OpenAI, Claude) to automation tools like n8n, Zapier, and Make
 - 🔄 Producing case studies that show business value (hours saved, manual work reduced)
 - 🔄 Job search for AI automation and AI/ML roles
 
@@ -86,7 +85,7 @@ AI-powered customer support chatbot with conversation memory, webhook support, a
 - ✅ DataCamp certifications — Data Analyst + AI Engineer Associate
 - ✅ Python — Intermediate Python (DataCamp)
 - 🔄 SQL
-- 🔄 AI APIs: OpenAI, Claude, Gemini, DeepSeek
+- 🔄 AI APIs: Google Gemini, OpenAI, Claude
 - 🔄 Zapier, Make, GoHighLevel, Power Automate
 - 📝 Excel/Google Sheets automation
 - 📝 Power BI / Looker Studio / Tableau
