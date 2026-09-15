@@ -4,7 +4,7 @@
 
 I build full-stack applications and AI-powered systems that solve real problems — from enterprise project management platforms and banking-grade order automation to autonomous Telegram bots and on-device voice assistants. PRC Licensed ECE with production software deployed on Vercel, Supabase, and Cloudflare.
 
-[![Portfolio](https://img.shields.io/badge/EmmanAlcazarJr.com-000?style=flat&logo=vercel&logoColor=white)](https://EmmanAlcazarJr.com)
+[![Portfolio](https://img.shields.io/badge/EmmanAlcazarJr.com-F38020?style=flat&logo=cloudflare&logoColor=white)](https://EmmanAlcazarJr.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanalcazarjr/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EmmanAlcazarJr@gmail.com)
 
@@ -137,6 +137,6 @@ End-to-end vector retrieval pipeline: document chunking, OpenAI/sentence-transfo
 
 I'm actively looking for **Software Engineer** and **AI Engineer** roles where I can build production systems that matter. Open to full-time, hybrid, or remote opportunities in the Philippines.
 
-[![Portfolio](https://img.shields.io/badge/EmmanAlcazarJr.com-000?style=flat&logo=vercel&logoColor=white)](https://EmmanAlcazarJr.com)
+[![Portfolio](https://img.shields.io/badge/EmmanAlcazarJr.com-F38020?style=flat&logo=cloudflare&logoColor=white)](https://EmmanAlcazarJr.com)
 [![Email](https://img.shields.io/badge/emmanalcazarjr@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EmmanAlcazarJr@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin.com/in/emmanalcazarjr-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanalcazarjr/)
