@@ -1,104 +1,142 @@
 # Hi, I'm Emmanuel Alcazar Jr. 👋
 
-**Licensed Electronics Engineer | AI/ML Developer | Software Engineer**
+**Licensed Electronics Engineer | Software Engineer | AI Developer**
 
-I build AI automation and intelligent systems that help people and businesses work smarter and faster — specializing in machine learning, AI-powered applications, and software engineering.
+I build full-stack applications and AI-powered systems that solve real problems — from enterprise project management platforms and banking-grade order automation to autonomous Telegram bots and on-device voice assistants. PRC Licensed ECE with production software deployed on Vercel, Supabase, and Cloudflare.
+
+[![Portfolio](https://img.shields.io/badge/EmmanAlcazarJr.com-000?style=flat&logo=vercel&logoColor=white)](https://EmmanAlcazarJr.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanalcazarjr/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EmmanAlcazarJr@gmail.com)
+
+---
 
 ## 🚀 Tech Stack
 
-### AI Automation & Backend
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+**Languages**
 
-### Data & AI
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-437291?style=flat&logo=openjdk&logoColor=white)
+
+**Frontend & Frameworks**
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js_16-000?style=flat&logo=next.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white)
+
+**Backend & Data**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=node.js&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Cloudflare D1](https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat&logo=cloudflare&logoColor=white)
+
+**AI & Automation**
+
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+
+**DevOps & Tools**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat&logo=raspberry-pi&logoColor=white)
+
+---
 
 ## 📁 Featured Projects
 
-### Rush — Personal AI Assistant | [@RushDailyBot](https://t.me/RushDailyBot) · [Code](https://github.com/emmanalcazarjr-ops/personal-assistant-bot)
-A private AI butler in Telegram: turns saved links into organized tasks, logs meals from food photos against a daily calorie cap, sends 7 AM / 7 PM briefings, and chats with memory. Runs 24/7 on Supabase Edge Functions.
+### 🏢 OmniSight PM — Enterprise Project Management Platform
+*Built for Reybin Inc — an auxiliary systems integrator (CCTV, Data Centers, PA Systems)*
 
-`TypeScript` `grammY` `Google Gemini AI` `Supabase Edge Functions`
+Executive-grade project management and budget control web application with 6-phase milestone tracking, equipment BOM ledger, technician labor timesheets, client invoicing (DRAFT→SENT→PAID lifecycle), 3-year warranty/PMS module, and troubleshooting ticket management. Features **3-tier RBAC** (Boss, Project Manager, Field Technician) with financial margin visibility control.
 
-### AI Chatbot API | [Live API](https://chatbot-api-two-teal.vercel.app)
-AI-powered customer support chatbot with conversation memory, webhook support, and rate limiting. Powered by Google Gemini AI for intelligent responses.
-
-`Python` `Google Gemini AI` `FastAPI` `Chatbot`
+`Next.js 16` `TypeScript` `React 19` `Tailwind CSS v4` `Prisma ORM` `SQLite`
 
 ---
 
-## 🌐 Live Projects
+### 💧 Water — Order Automation for Water Refilling Stations | [Live Demo](https://water.emmanalcazarjr.com)
 
-| Project | Live URL | Technology |
-|---------|----------|------------|
-| Portfolio | [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) | Next.js, Tailwind CSS |
-| Rush Personal AI Assistant | [t.me/RushDailyBot](https://t.me/RushDailyBot) | TypeScript, grammY, Google Gemini, Supabase |
-| Chatbot API | [chatbot-api-two-teal.vercel.app](https://chatbot-api-two-teal.vercel.app) | FastAPI, Google Gemini AI |
-| Automated Report Generator | [automated-report-generator.vercel.app](https://automated-report-generator.vercel.app) | FastAPI, Google Gemini AI |
-| Water Station Telegram Bots | [GitHub](https://github.com/emmanalcazarjr-ops/water-station-telegram-bot) | Node.js, grammY, Supabase |
+Full-stack SaaS that replaces phone/text ordering with AI-powered SMS parsing and a mobile-first web portal. Claude AI extracts orders from free-form Taglish messages; customers order via nickname + 4-digit PIN with QR payment and receipt upload. Admin dashboard for order acknowledgment, delivery dispatch, and payment tracking. Built for Philippine condos with towers/units as first-class data.
+
+`Cloudflare Workers` `Cloudflare D1` `Anthropic Claude API` `SMS Integration` `SQLite`
+
+---
+
+### 🤖 Rush — Personal AI Assistant & Obsidian Bridge | [Code](https://github.com/emmanalcazarjr-ops/personal-assistant-bot) · [@RushDailyBot](https://t.me/RushDailyBot)
+
+Autonomous 24/7 Telegram AI assistant: doomscroll & link curation with AI triage into project categories, chat with memory (12-turn context), notes→Obsidian vault sync via GitHub API, natural-language reminders, and daily briefings (weather + tech headlines). Production-hardened with **CI pipeline, 37 passing unit tests, uptime watchdog, webhook auth, and owner allowlist**.
+
+`TypeScript` `grammY` `Google Gemini` `Supabase Edge Functions` `GitHub Actions` `Vitest`
+
+---
+
+### 📚 Sure Win — Board Exam Reviewer App | [Live](https://boardkid.vercel.app)
+
+Cross-platform (web + Android via Capacitor) board exam reviewer for PRC ECE/ECT licensure. 127-topic official syllabus checklist, question bank with **LaTeX-rendered formulas** (KaTeX), 25-item randomized test generator, and **Gemini AI-powered educational explanations** via Google Apps Script webhook. Synchronized across web JSON, CSV, and Google AppSheet.
+
+`React 19` `TypeScript` `Vite` `Capacitor` `Tailwind CSS` `KaTeX` `Google Gemini`
+
+---
+
+### 🏠 Pi Butler — Raspberry Pi Voice Assistant
+
+100% on-device voice assistant for Raspberry Pi 4: wake word detection ("Hey Jarvis"), Spotify Premium voice control, WiFi-based guest greeter (MAC address detection with configurable nicknames), and scheduled morning/evening greetings. **Zero cloud dependency** — wake word + STT + TTS all run locally.
+
+`Python` `Vosk` `Piper TTS` `openWakeWord` `Spotify API` `systemd` `Raspberry Pi 4`
+
+---
+
+### 🧠 RAG Knowledge Assistant | [Case Study](https://EmmanAlcazarJr.com)
+
+End-to-end vector retrieval pipeline: document chunking, OpenAI/sentence-transformer embeddings, FAISS vector indexing with dense similarity search, top-k reranking, and hallucination mitigation with citation grounding. Benchmarked across 15 test cases measuring retrieval recall@k, generation faithfulness, latency, and cost.
+
+`Python` `FAISS` `OpenAI API` `LangChain` `sentence-transformers`
+
+---
+
+## 🌐 Live Deployments
+
+| Project | URL | Stack |
+|---------|-----|-------|
+| Portfolio & Case Studies | [EmmanAlcazarJr.com](https://EmmanAlcazarJr.com) | Cloudflare Pages |
+| Water — Order Automation | [water.emmanalcazarjr.com](https://water.emmanalcazarjr.com) | Cloudflare Workers + D1 + Claude |
+| Sure Win Board Reviewer | [boardkid.vercel.app](https://boardkid.vercel.app) | React + Vite + Vercel |
+| Rush AI Assistant | [@RushDailyBot](https://t.me/RushDailyBot) | TypeScript + Supabase Edge Functions |
+
+---
 
 ## 🏆 Licenses & Certifications
 
-- ⚡ **Electronics Engineer License (ECE)** - Licensed Professional (PRC)
-- 🔧 **Electronics Technician License (ECT)** - Licensed Professional (PRC)
-- 🌐 **ICT Infrastructure Certification** - Technological Learning of Internetworking End Devices
-- 📈 **Data Analyst Associate Certification** - DataCamp Certified
-- 🤖 **AI Engineer for Developers Associate Certification** - DataCamp Certified
-- ⚙️ **Workflow Automation with n8n** - DataCamp Certified
-- 🐍 **Python (Intermediate)** - DataCamp Certified
-
-## 🗺️ My Roadmap
-
-> Live view: [portfolio-elalcazarjr.vercel.app](https://portfolio-elalcazarjr.vercel.app) → Roadmap tab
-
-**Currently Working On**
-- 🔄 Building @RushDailyBot — a personal AI assistant live 24/7 on Supabase Edge Functions
-- 🔄 Building AI automation projects that solve real business problems
-- 🔄 Connecting AI APIs (Google Gemini, OpenAI, Claude) to automation tools like n8n, Zapier, and Make
-- 🔄 Producing case studies that show business value (hours saved, manual work reduced)
-- 🔄 Job search for AI automation and AI/ML roles
-
-**Short-Term Goals**
-- ✅ Ship the Automated Report Generator with a live demo
-- 📝 Ship the Data Reconciliation & Exception Monitor
-- 📝 Build an Internal AI Knowledge Assistant
-- 📝 Build a KPI Dashboard (Power BI / Looker Studio) on top of the report pipeline
-- 📝 Publish case studies and screenshots for each project
-
-**Long-Term Goals**
-- 📝 Land an AI automation role and progress into AI/ML engineering
-- 📝 Build production-grade AI systems end-to-end
-- 📝 Grow a public technical brand through blog, talks, and open source
-
-**Learning Goals**
-- ✅ n8n automation — workflow automation with n8n
-- ✅ DataCamp certifications — Data Analyst + AI Engineer Associate
-- ✅ Python — Intermediate Python (DataCamp)
-- 🔄 SQL
-- 🔄 AI APIs: Google Gemini, OpenAI, Claude
-- 🔄 Zapier, Make, GoHighLevel, Power Automate
-- 📝 Excel/Google Sheets automation
-- 📝 Power BI / Looker Studio / Tableau
-- 📝 Basic machine learning — path to AI/ML engineering
-
-_Legend: ✅ Done · 🔄 In Progress · 📝 Planned_
-
-## 📫 Contact
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-elalcazarjr.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EmmanAlcazarJr@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanalcazarjr/)
+| Credential | Issuer | ID |
+|-----------|--------|-----|
+| ⚡ **Electronics Engineer (ECE)** | PRC — Board Rating: **79.80%** | Lic. #83920 |
+| 🔧 **Electronics Technician (ECT)** | PRC — Board Rating: **72.00%** | Lic. #31662 |
+| 🤖 **AI Engineer for Developers Associate** | DataCamp | AIEDA0015580025435 |
+| 📊 **Data Analyst Associate** | DataCamp | Verified |
+| 📋 **PMP® Exam Prep (35 Contact Hours)** | PMI ATP (MSTCONNECT) | MST-PMP-PREP-00429 |
+| 🛡️ **Safety Officer 2 (COSH 40h + TOT)** | DOLE-OSHC | TS-COSH-0326-47-3382 |
+| 🌐 **ICT Internetworking (20 Hours)** | DICT Region V | 2023-ICWEB509 |
 
 ---
 
-*Profile README for [emmanalcazarjr-ops](https://github.com/emmanalcazarjr-ops)*
+## 📫 Let's Connect
+
+I'm actively looking for **Software Engineer** and **AI Engineer** roles where I can build production systems that matter. Open to full-time, hybrid, or remote opportunities in the Philippines.
+
+[![Portfolio](https://img.shields.io/badge/EmmanAlcazarJr.com-000?style=flat&logo=vercel&logoColor=white)](https://EmmanAlcazarJr.com)
+[![Email](https://img.shields.io/badge/emmanalcazarjr@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:EmmanAlcazarJr@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin.com/in/emmanalcazarjr-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanalcazarjr/)
