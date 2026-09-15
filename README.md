@@ -123,8 +123,8 @@ End-to-end vector retrieval pipeline: document chunking, OpenAI/sentence-transfo
 
 | Credential | Issuer | ID |
 |-----------|--------|-----|
-| ⚡ **Electronics Engineer (ECE)** | PRC — Board Rating: **79.80%** | Lic. #83920 |
-| 🔧 **Electronics Technician (ECT)** | PRC — Board Rating: **72.00%** | Lic. #31662 |
+| ⚡ **Electronics Engineer (ECE)** | PRC — Board Rating: **79.80%** | Registered (Available upon request) |
+| 🔧 **Electronics Technician (ECT)** | PRC — Board Rating: **72.00%** | Registered (Available upon request) |
 | 🤖 **AI Engineer for Developers Associate** | DataCamp | AIEDA0015580025435 |
 | 📊 **Data Analyst Associate** | DataCamp | Verified |
 | 📋 **PMP® Exam Prep (35 Contact Hours)** | PMI ATP (MSTCONNECT) | MST-PMP-PREP-00429 |
